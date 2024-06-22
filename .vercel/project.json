@@ -2,6 +2,9 @@
     "build": {
       "env": {
         "PYTHON_VERSION": "3.8"
+      },
+      "commands": {
+        "build": "./build.sh"
       }
     }
   }
